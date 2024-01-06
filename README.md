@@ -8,4 +8,5 @@ image D is graded as 9.5. Images A, B and C are taken from the ORIGA database. I
 
 ## Fair Use
 If you use this data in your work, please add the following citation to your work:
-"Abramovich, Or et al., "FundusQ-Net: a Regression Quality Assessment Deep Learning Algorithm for Fundus Images Quality Grading", In: "Computer Methods and Programs in Biomedicine" (2023) [Manuscript accepted for publication].
+"Abramovich, Or et al., "FundusQ-Net: a Regression Quality Assessment Deep Learning Algorithm for Fundus Images Quality Grading", Computer Methods and Programs in Biomedicine, Volume 239, 2023, 107522, ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2023.107522."
